@@ -38,10 +38,8 @@ File 'sods2021.py' constains code which extract from data files information (tab
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here] ???????????????????????????????????/
+The main findings of the code can be found at the post available [here] (https://medium.com/@krzysztof.agacinski/quick-view-at-missing-answers-in-stack-overflow-survey-2021-2bb633221aa4)
 
-
-(https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
