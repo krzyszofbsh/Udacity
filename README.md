@@ -16,7 +16,7 @@ python -m pip install -U pip
 
 python -m pip install -U matplotlib
 
-data source: [here] (https://insights.stackoverflow.com/survey)
+data source: [here](https://insights.stackoverflow.com/survey)
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -41,7 +41,7 @@ File 'sods2021.py' constains code which extract from data files information (tab
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here] (https://medium.com/@krzysztof.agacinski/quick-view-at-missing-answers-in-stack-overflow-survey-2021-2bb633221aa4)
+The main findings of the code can be found at the post available [here](https://medium.com/@krzysztof.agacinski/quick-view-at-missing-answers-in-stack-overflow-survey-2021-2bb633221aa4)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
