@@ -23,6 +23,7 @@ I was interestested in analyis of Stack Overflow data from 2021 to answer questi
 2) To which questions we have less answers and to which we have more?
 3) Who mostly/always avoid answering?
 4) Who mostly/always answered?  
+5) Does your opinion about survey lenght influents amount of NaNs  ?
 
 ## File Descriptions <a name="files"></a>
 
