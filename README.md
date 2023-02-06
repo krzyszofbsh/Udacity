@@ -35,8 +35,11 @@ I was interestested in analyis of Stack Overflow data from 2021 to answer questi
    available [here](https://insights.stackoverflow.com/survey)
 
 
-**.py file:**
+**PYTHON file:**
 - sods2021.py
+
+**JUPYTER file:**
+- sods2021.ipynb
 
 
 File 'sods2021.py' constains code which extract from data files information (tables and graphs) needed to answer above mentioned questions.
