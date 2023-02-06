@@ -43,6 +43,7 @@ I was interestested in analyis of Stack Overflow data from 2021 to answer questi
 
 
 
+
 File 'sods2021.py' constains code which extract from data files information (tables and graphs) needed to answer above mentioned questions.
 
 File 'sods2021.ipynb' constains code with results.
